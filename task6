@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+   <head>
+   <meta charset="UTF-8">
+   <title>Навчальний файл HTML</title>
+   </head>
+   <body>
+      <I><B>
+      <FONT COLOR="#OOOOFF" FACE="ARIAL"  SIZE="5">
+       Розклад 
+      </FONT></B></I>
+       занять на вівторок
+   </body>
+</html>
