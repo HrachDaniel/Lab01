@@ -2,9 +2,9 @@
 <html>
    <head>
    <meta charset="UTF-8" />
-   <title>Навчальний файл HTML</title>
+   <title>Головна сторінка</title>
    </head>
    <body>
-     Розклад занять на вівторок
+     Це моя перша web-сторінка
    </body>
 </html>
